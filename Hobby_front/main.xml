@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mainHobbySite SYSTEM "main.dtd">
+
+<mainHobbySite>
+    <links>
+        <link source="index.html">My Hobby</link>
+        <link source="terminology.html">Terminology</link>
+        <link source="sport_icons.html">Sport Icons</link>
+        <link source="contact.html">Contact Me!</link>
+    </links>
+
+    <mainContent>
+        <facts about="myHobby">
+            <heading>Basketball</heading>
+            <bBallStory>
+                Basketball began with its invention in 1891 in Springfield,
+                Massachusetts, by Canadian physical education instructor James Naismith
+                as a less injury-prone sport than football. Naismith was a 31-year-old
+                graduate student when he created the indoor sport to keep athletes indoors
+                during the winters. The game became established fairly quickly and grew very
+                popular as the 20th century progressed, first in America and then in other
+                parts of the world. After basketball became established in American colleges,
+                the professional game followed. The American National Basketball Association (NBA),
+                established in 1946, grew to a multibillion-dollar enterprise by the end of the century,
+                and basketball became an integral part of American culture.
+            </bBallStory>
+            <pictures>
+                <picture format="png" source="images/logo.png">logo</picture>
+                <picture format="png" source="images/ball.png">ball</picture>
+                <picture format="png" source="images/hoop.png">hoop</picture>
+            </pictures>
+        </facts>
+    </mainContent>
+
+    <players>
+        <player id="p1" name="Kareem" surname="Abdul-Jabaar">
+            <name>Kareem Abdul-Jabaar</name>
+            <story>Kareem Abdul-Jabbar (born Ferdinand Lewis Alcindor Jr.; April 16, 1947) is an American former
+                professional basketball player who played 20 seasons in the National Basketball Association (NBA)
+                for the Milwaukee Bucks and the Los Angeles Lakers. During his career as a center,
+                Abdul-Jabbar was a record six-time NBA Most Valuable Player (MVP), a record 19-time NBA All-Star,
+                a 15-time All-NBA Team member, and an 11-time NBA All-Defensive Team member. He was a member of
+                six NBA championship teams as a player and two more as an assistant coach, and was twice voted NBA
+                Finals MVP. He was named to three NBA anniversary teams (35th, 50th, and 75th). Widely regarded
+                as one of the greatest players of all time, he was called the greatest basketball player
+                of all time by Pat Riley, Isiah Thomas, and Julius Erving.
+            </story>
+            <picture format="png" source="images/kareem.png">Kareem Abdul-Jabaar</picture>
+            <link source="https://en.wikipedia.org/wiki/Kareem_Abdul-Jabbar">Learn More!</link>
+        </player>
+
+        <player id="p2" name="Hakeem" surname="Olajuwon">
+            <name>Hakeem Olajuwon</name>
+            <story>Hakeem Abdul Olajuwon (born January 21, 1963), nicknamed "the Dream", is a Nigerian-American former
+                professional basketball player. From 1984 to 2002, he played center in the
+                National Basketball Association (NBA) for the Houston Rockets and, in his last season,
+                the Toronto Raptors. He led the Rockets to back-to-back NBA championships in 1994 and 1995.
+                Olajuwon was inducted into the Naismith Memorial Basketball Hall of Fame in 2008 and the
+                FIBA Hall of Fame in 2016. He is widely considered to be one of the greatest centers, as well as
+                one of the greatest basketball players of all time.
+            </story>
+            <picture format="png" source="images/hakeem.png">Hakeem Olajuwon</picture>
+            <link source="https://en.wikipedia.org/wiki/Hakeem_Olajuwon">Learn More!</link>
+        </player>
+
+        <player id="p3" name="Larry" surname="Bird">
+            <name>Larry Bird</name>
+            <story>Larry Joe Bird (born December 7, 1956) is a former American professional basketball player, coach,
+                and executive in the National Basketball Association (NBA). Nicknamed "the Hick from French Lick" and
+                "Larry Legend", Bird is widely regarded as one of the greatest basketball players of all time.
+                Bird entered the NBA for the 1979–1980 season, where he made an immediate impact, starting
+                at power forward and leading the Celtics to a 32-win improvement over the previous season before
+                being eliminated from the playoffs in the Conference Finals. He played for the Celtics during his
+                entire professional career (13 seasons),
+                leading them to five NBA finals appearances and three NBA championships.
+                He played most of his career with forward Kevin McHale and center Robert Parish,
+                considered by some to be the greatest front court in NBA history.
+                Bird was a 12-time NBA All-Star, won two NBA Finals MVP awards and received the
+                NBA Most Valuable Player Award three consecutive times (1984–1986), making him the
+                only forward in league history to do so. Bird was also a member of the gold medal-winning
+                1992 United States men's Olympic basketball team known as "The Dream Team".
+
+            </story>
+            <picture format="png" source="images/bird.png">Larry Bird</picture>
+            <link source="https://en.wikipedia.org/wiki/Larry_Bird">Learn More!</link>
+        </player>
+
+        <player id="p4" name="Micheal" surname="Jordan">
+            <name>Micheal Jordan</name>
+            <story>Michael Jeffrey Jordan (born February 17, 1963), also known by his initials MJ, is an
+                American businessman and former professional basketball player. His biography on the official NBA
+                website states: "By acclamation, Michael Jordan is the greatest basketball player of all time."
+                He played fifteen seasons in the National Basketball Association (NBA), winning six NBA championships
+                with the Chicago Bulls. Jordan is the principal owner and chairman of the Charlotte Hornets of the
+                NBA and of 23XI Racing in the NASCAR Cup Series. He was integral in popularizing the NBA around the
+                world in the 1980s and 1990s, becoming a global cultural icon in the process.
+                Jordan joined the Bulls in 1984 as the third overall draft pick,
+                and quickly emerged as a league star, entertaining crowds with his prolific scoring
+                while gaining a reputation as one of the game's best defensive players. His leaping ability,
+                demonstrated by performing slam dunks from the free-throw line in Slam Dunk Contests,
+                earned him the nicknames "Air Jordan" and "His Airness". Jordan won his first NBA title
+                with the Bulls in 1991, and followed that achievement with titles in 1992 and 1993,
+                securing a three-peat. Jordan abruptly retired from basketball before the 1993–94 NBA season to play
+                Minor League Baseball but returned to the Bulls in March 1995 and led them
+                to three more championships in 1996, 1997, and 1998, as well as a then-record 72 regular season
+                wins in the 1995–96 NBA season. He retired for the second time in January 1999 but returned
+                for two more NBA seasons from 2001 to 2003 as a member of the Washington Wizards. During
+                the course of his professional career he was also selected to play for the United States national team,
+                winning four gold medals (at the 1983 Pan American Games, 1984 Summer Olympics,
+                1992 Tournament of the Americas and 1992 Summer Olympics), while also being undefeated.
+                Jordan's individual accolades and accomplishments include six NBA Finals Most Valuable Player (MVP)
+                awards, ten NBA scoring titles (both all-time records), five NBA MVP awards, ten All-NBA First Team
+                designations, nine All-Defensive First Team honors, fourteen NBA All-Star Game selections, three
+                NBA All-Star Game MVP awards, three NBA steals titles, and the 1988
+                NBA Defensive Player of the Year Award. He holds the NBA records for career regular season
+                scoring average (30.12 points per game) and career playoff scoring average (33.45 points per game).
+                In 1999, he was named the 20th century's greatest North American athlete by ESPN, and was second to
+                Babe Ruth on the Associated Press' list of athletes of the century. Jordan was twice inducted into
+                the Naismith Memorial Basketball Hall of Fame, once in 2009 for his individual career, and again
+                in 2010 as part of the 1992 United States men's Olympic basketball team ("The Dream Team").
+                He became a member of the United States Olympic Hall of Fame in 2009, a member of the
+                North Carolina Sports Hall of Fame in 2010, and an individual member of the
+                FIBA Hall of Fame in 2015 and a "Dream Team" member in 2017. In 2021,
+                Jordan was named to the NBA 75th Anniversary Team.
+            </story>
+            <picture format="png" source="images/jordan.png">Micheal Jordan</picture>
+            <link source="https://en.wikipedia.org/wiki/Michael_Jordan">Learn More!</link>
+        </player>
+
+        <player id="p5" name="Vince" surname="Carter">
+            <name>Vince Carter</name>
+            <story>Vincent Lamar Carter Jr. (born January 26, 1977) is an American former professional basketball
+                player who serves as a basketball analyst for ESPN. He primarily played the shooting guard and small
+                forward positions, but occasionally played power forward later in his NBA career. He was an
+                eight-time All-Star and a two-time All-NBA Team selection. He is the only player in NBA history
+                to play as many as 22 seasons and in four different decades, from his debut in 1999 to his retirement
+                in 2020. He was the scoring leader on the 2000 United States Men’s
+                Olympic Basketball Team where the USA defeated France to win the nation’s twelfth
+                Men’s Basketball Olympic gold medal. He entertained crowds with his leaping ability and slam dunks,
+                earning him nicknames such as "Vinsanity", "Air Canada", and "Half Man, Half Amazing".
+                He has been ranked as the greatest dunker of all time by numerous players, journalists,
+                and by the National Basketball Association (NBA). In addition to his dunking prowess,
+                he was a prolific three-point shooter, making the sixth most three-point
+                field goals in league history.
+            </story>
+            <picture format="png" source="images/carter.png">Vince Carter</picture>
+            <link source="https://en.wikipedia.org/wiki/Vince_Carter">Learn More!</link>
+        </player>
+
+        <player id="p6" name="Shaquille" surname="O'Neal">
+            <name>Shaquille O’Neal</name>
+            <story>Shaquille Rashaun O'Neal (born March 6, 1972), known commonly as "Shaq" , is an American former
+                professional basketball player who is a sports analyst on the television program Inside the NBA.
+                O'Neal is regarded as one of the greatest basketball players and centers of all time.
+                He is a 7-foot-1-inch (2.16m) and 325-pound (147kg) center who played for six teams over
+                his 19-year career in the National Basketball Association (NBA) and is a four-time NBA champion.
+                After playing college basketball for the LSU Tigers, O'Neal was drafted by the Orlando Magic with
+                the first overall pick in the 1992 NBA draft. He quickly became one of the best centers in the league,
+                winning Rookie of the Year in 1992–93 and leading his team to the 1995 NBA Finals. After four years
+                with the Magic, O'Neal signed as a free agent with the Los Angeles Lakers.
+                They won three consecutive championships in 2000, 2001, and 2002. Amid tension between
+                O'Neal and Kobe Bryant, O'Neal was traded to the Miami Heat in 2004, and his fourth
+                NBA championship followed in 2006. Midway through the 2007–2008 season he was traded to the
+                Phoenix Suns. After a season-and-a-half with the Suns, O'Neal was traded to the Cleveland Cavaliers
+                in the 2009–10 season.
+                O'Neal played for the Boston Celtics in the 2010–11 season before retiring.
+
+            </story>
+            <picture format="png" source="images/shaq.png">Shaquille O’Neal</picture>
+            <link source="https://en.wikipedia.org/wiki/Shaquille_O%27Neal">Learn More!</link>
+        </player>
+
+        <player id="p7" name="Kobe" surname="Bryant">
+            <name>Kobe Bryant</name>
+            <story>Kobe Bean Bryant ( August 23, 1978 – January 26, 2020) was an
+                American professional basketball player. A shooting guard, he spent his entire 20-year career with the
+                Los Angeles Lakers in the National Basketball Association (NBA).
+                Widely regarded as one of the greatest basketball players of all time, Bryant won
+                five NBA championships, was an 18-time All-Star, a 15-time member of the All-NBA Team,
+                a 12-time member of the All-Defensive Team, the 2008 NBA Most Valuable Player (MVP),
+                and a two-time NBA Finals MVP. Bryant also led the NBA in scoring twice, and ranks fourth in
+                league all-time regular season and postseason scoring. He was posthumously
+                voted into the Naismith Memorial Basketball Hall of Fame in 2020 and named to the NBA 75th Anniversary
+                Team in 2021.
+                Bryant declared for the 1996 NBA draft and was selected by the Charlotte Hornets
+                with the 13th overall pick; he was then traded to the Lakers.
+                As a rookie, Bryant earned a reputation as a high-flyer by winning the 1997 Slam Dunk Contest,
+                and was named an All-Star by his second season. Despite a feud with teammate Shaquille O'Neal,
+                the pair led the Lakers to three consecutive NBA championships from 2000 to 2002.
+                Criminal charges were later dropped after the accuser failed to testify, and a lawsuit was
+                settled out of court, with Bryant issuing a public apology and admitting to a sexual encounter
+                he maintained was consensual. The accusation briefly tarnished Bryant's reputation,
+                resulting in the loss of several of his endorsement contracts.
+                After the Lakers lost the 2004 NBA Finals, O'Neal was traded and Bryant became the cornerstone
+                of the franchise. He led the NBA in scoring in the 2005–06 and 2006–07 seasons and was named
+                league MVP in 2008. On January 22, 2006, he scored a career-high 81 points;
+                the second most points scored in a single NBA game, behind Wilt Chamberlain's 100-point game.
+                Bryant led the team to consecutive championships in 2009 and 2010,
+                both times being named NBA Finals MVP. He continued to be among the top players in the league
+                through the 2012–13 season, when he suffered a torn achilles tendon at age 34. His next
+                two seasons were cut short by injuries to his knee and shoulder, respectively.
+                Citing physical decline, Bryant retired after the 2015–16 season. In 2017,
+                the Lakers retired both his Nos. 8 and 24, making him the only player in NBA history
+                to have multiple numbers retired by the same franchise.
+                The all-time leading scorer in Lakers history, Bryant was the first guard in NBA history
+                to play 20 seasons. His 18 All-Star designations are the second most all time, and he has the most
+                consecutive appearances as a starter. Bryant's four NBA All-Star Game MVP Awards are tied with
+                Bob Pettit for the most in NBA history. He gave himself the nickname "Black Mamba" in the mid-2000s,
+                and the epithet became widely adopted by the public.
+                He won gold medals on the 2008 and 2012 U.S. Olympic teams. In 2018,
+                he won the Academy Award for Best Animated Short Film for the film Dear Basketball (2017).
+                Bryant died, along with his daughter Gianna and seven others, in a helicopter crash in Calabasas,
+                California, in 2020. A number of tributes and memorials were subsequently issued,
+                including renaming the All-Star MVP Award in his honor.
+            </story>
+            <picture format="png" source="kobe.png">Kobe Bryant</picture>
+            <link source="https://en.wikipedia.org/wiki/Kobe_Bryant">Learn More!</link>
+        </player>
+
+        <player id="p8" name="Marcin" surname="Gortat">
+            <name>Marcin Gortat</name>
+            <story>Marcin Janusz Gortat (born February 17, 1984)
+                is a Polish former professional basketball player. The 6ft 11in (2.11m), 240 pounds
+                (110kg) center is the son of boxer Janusz Gortat. He was drafted in the second round by the
+                Phoenix Suns in the 2005 NBA draft and played for the Orlando Magic, Phoenix Suns, Washington Wizards,
+                and Los Angeles Clippers. He retired from professional basketball in 2020.
+            </story>
+            <picture format="png" source="gortat.png">Marcin Gortat</picture>
+            <link source="https://en.wikipedia.org/wiki/Marcin_Gortat">Learn More!</link>
+        </player>
+        <player id="p9" name="LeBron" surname="James">
+            <name>LeBron James</name>
+            <story>LeBron Raymone James Sr. ( born December 30, 1984) is an American professional
+                basketball player for the Los Angeles Lakers of the National Basketball Association (NBA).
+                Nicknamed "King James", he is widely considered one of the greatest players ever and is often
+                compared to Michael Jordan in debates over the greatest basketball player of all time.
+                James has won four NBA championships, four NBA MVP awards, four NBA Finals MVP awards,
+                three All-Star MVP awards, and two Olympic gold medals. James has scored the most points in the
+                playoffs, the most career points (playoffs and regular seasons combined), and
+                the second most regular seasons points, and has the seventh most career assists.
+                He has been selected an NBA All-Star 18 times, to the All-NBA Team a record 18 times,
+                and to the NBA All-Defensive First Team five times. He has competed in ten NBA Finals,
+                the third most all time, including eight consecutively between 2011 and 2018. In 2021,
+                James was selected to the NBA 75th Anniversary Team, and in 2022 became the first and only
+                player in NBA history to accumulate over 10,000 career points, rebounds, and assists.
+                James won his first two NBA championships while playing for the Heat in 2012 and 2013;
+                in both of these years, he also earned the league's MVP and Finals MVP awards.
+                After his fourth season with the Heat in 2014, James opted out of his contract to re-sign
+                with the Cavaliers. In 2016, he led the Cavaliers to victory over the
+                Golden State Warriors in the Finals by coming back from a 3–1 deficit,
+                delivering the team's first championship and ending the Cleveland sports curse.
+                In 2018, James exercised his contract option to leave the Cavaliers and signed with the
+                Lakers, where he won the 2020 NBA championship and his fourth Finals MVP.
+                James is also the first player in NBA history to accumulate $1billion in earnings as an
+                active player.
+            </story>
+            <picture format="png" source="images/james.png">LeBron James</picture>
+            <link source="https://en.wikipedia.org/wiki/LeBron_James">Learn More!</link>
+        </player>
+    </players>
+
+    <rules>
+        The rules of basketball can vary slightly depending on the level of play
+        (for example professional rules differ from college rules) or where the game is played
+        (international rules are different from USA's professional rules).
+        These rule differences, however, are usually just variations on the basic game of basketball and the majority
+        of the rules discussed below can be applied to almost any game of basketball played.
+        The winner of a basketball game is the team with the most points.
+        You get points by throwing the basketball through the opponent's hoop or basket.
+        In regular play a basket made from within the three point line is worth 2 points and a basket
+        shot from outside the three point line is worth three points. When shooting a free throw,
+        each free throw is worth 1 point.
+        Rules for the offense
+        The basketball team on offense is the team with the basketball.
+        When a player has the basketball there are certain rules they must follow:
+        1) The player must bounce, or dribble, the ball with one hand while moving both feet.
+        If, at any time, both hands touch the ball or the player stops dribbling,
+        the player must only move one foot. The foot that is stationary is called the pivot foot.
+        2) The basketball player can only take one turn at dribbling.
+        In other words, once a player has stopped dribbling they cannot start another dribble.
+        A player who starts dribbling again is called for a double-dribbling violation and looses
+        the basketball to the other team. A player can only start another dribble after another player
+        from either team touches or gains control of the basketball. This is usually after a shot or pass.
+        3) The ball must stay in bounds. If the offensive team looses the ball out of bounds the other team
+        gets control of the basketball
+        4) The players hand must be on top of the ball while dribbling. If they touch the bottom of the
+        basketball while dribbling and continue to dribble this is called carrying the ball and the player will
+        lose the ball to the other team.
+        5) Once the offensive team crosses half court, they may not go back into the backcourt.
+        This is called a backcourt violation. If the defensive team knocks the ball into the backcourt,
+        then the offensive team can recover the ball legally.
+        Defensive Rules
+        The team on defense is the team without the basketball.
+        1) The main rule for the defensive player is not to foul.
+        A foul is described as gaining an unfair advantage through physical contact.
+        There is some interpretation that has to be made by the referee, but, in general,
+        the defensive player may not touch the offensive player in a way that causes the offensive player to
+        lose the ball or miss a shot.
+        Rules for everyone
+        1) Although the foul rule is described above as a defensive rule, it applies exactly
+        the same to all players on the court including offensive players.
+        2) Basketball players cannot kick the ball or hit it with their fist.
+        3) No player can touch the basketball while it is traveling downward towards the basket or
+        if it is on the rim. This is called goaltending. (touching the ball on the rim is legal in some games).
+        Every player on the court is subject to the same rules regardless of the position they play.
+        The positions in basketball are just for team basketball strategy and there are no positions in the rules.
+    </rules>
+
+    <contact>
+        <heading> GLOBAL
+            Contact Us
+        </heading>
+        <content>
+            <appeal>If you would like to join our basketball community, find a crew to play,
+                watch games or just discuss basketball related topics, don't be afraid!
+                Fill the form, and we will reach out to you! There are no requirements to join,
+                other than love for basketball and your will to meet new people.
+            </appeal>
+            <questions>
+                <question type="text" required="yes">Your First Name</question>
+                <question type="text" required="yes">Your Surname</question>
+                <question type="text" required="yes">Your Phone number</question>
+                <question type="text" required="yes">Your e-mail</question>
+            </questions>
+        </content>
+    </contact>
+
+    <groundBar>
+        <barText>Are you lost Get back</barText>
+        <link source="#">!UP!</link>
+    </groundBar>
+
+</mainHobbySite>

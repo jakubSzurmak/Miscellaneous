@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!ELEMENT mainHobbySite (links, mainContent, players, rules, contact, groundBar)*>
+<!ELEMENT links (link*)>
+<!ELEMENT link (#PCDATA)>
+<!ATTLIST link source CDATA #REQUIRED>
+<!ELEMENT mainContent (facts?)>
+<!ELEMENT facts (heading, bBallStory, pictures)?>
+<!ATTLIST facts about CDATA "myHobby">
+<!ELEMENT heading (#PCDATA)>
+<!ELEMENT bBallStory (#PCDATA)>
+<!ELEMENT pictures (picture*)>
+<!ELEMENT picture (#PCDATA)>
+<!ATTLIST picture format CDATA #REQUIRED>
+<!ATTLIST picture source CDATA #REQUIRED>
+<!ELEMENT players (player*)>
+<!ELEMENT player (name, story, picture, link)?>
+<!ATTLIST player id ID #REQUIRED>
+<!ATTLIST player name CDATA "defaultName">
+<!ATTLIST player surname CDATA "defaultSurname">
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT story (#PCDATA)>
+<!ELEMENT rules (#PCDATA)>
+<!ELEMENT contact (heading, content)+>
+<!ELEMENT content (appeal, questions)+>
+<!ELEMENT appeal (#PCDATA)>
+<!ELEMENT questions (question*)>
+<!ELEMENT question (#PCDATA) >
+<!ATTLIST question type CDATA #REQUIRED>
+<!ATTLIST question required (yes | no) #REQUIRED>
+<!ELEMENT groundBar (barText, link)>
+<!ELEMENT barText (#PCDATA)>
